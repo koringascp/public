@@ -1,0 +1,17 @@
+/* Login Page Logo*/
+
+.imgLogoIcon {
+
+content: url(https://raw.githubusercontent.com/koringascp/public/main/images/unknown.png) !important; }
+
+/* Main Drawer Mobile Logo*/
+
+.adminDrawerLogo img {
+
+content: url(https://raw.githubusercontent.com/koringascp/public/main/images/unknown.png) !important; }
+
+/* Home Page Logo*/
+
+.pageTitleWithLogo {
+
+background-image: url(https://raw.githubusercontent.com/koringascp/public/main/images/unknown.png) !important; }
